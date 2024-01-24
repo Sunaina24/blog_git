@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ag.MiniProject3BlogAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.282 s - in com.ag.MiniProject3BlogAppApplicationTests
